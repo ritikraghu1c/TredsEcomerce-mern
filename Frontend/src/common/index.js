@@ -1,5 +1,5 @@
 
-const backendDomin = process.env.REACT_APP_BACKEND_URL;
+const backendDomin ="https://treds-ecomerce-mern-backend.vercel.app"
 
 const SummaryApi = {
     signUP : {
